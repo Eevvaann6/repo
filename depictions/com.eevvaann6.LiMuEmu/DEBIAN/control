@@ -1,0 +1,10 @@
+Package: com.eevvaann6.LiMuEmu
+Name: LiMu Emu And Doug!
+Version: 1.0
+Architecture: iphoneos-arm
+Description: OH GOD PLEASE NO
+Author: Eevvaann6
+Maintainer: Eevvaann6
+Section: Themes
+Depends: com.spark.snowboard
+
